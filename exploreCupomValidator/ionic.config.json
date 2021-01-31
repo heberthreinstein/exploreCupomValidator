@@ -1,0 +1,7 @@
+{
+  "name": "exploreCupomValidator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
